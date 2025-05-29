@@ -20,7 +20,7 @@
 
 ## 🚀 Cómo levantar el proyecto localmente
 
-```bash
+```bash 
 # Clona el repositorio
 git clone https://github.com/tu-usuario/frame-by-gabriel.git
 cd frame-by-gabriel
@@ -30,3 +30,23 @@ npm install
 
 # Ejecuta el servidor de desarrollo
 npm run dev
+
+```
+La aplicación estará disponible en http://localhost:3000
+
+## 📌 Estado del proyecto
+Este proyecto está en fase inicial. A medida que avance, se incluirán nuevas funcionalidades como:
+
+- Panel de administración seguro
+
+- Subida de imágenes con metadatos
+
+- Organización dinámica de las fotos
+
+- Filtros y buscador
+
+- Modo oscuro
+
+## 📷 Licencia
+MIT © Gabriel
+Este proyecto es de código abierto y puedes usarlo o contribuir si lo deseas.
